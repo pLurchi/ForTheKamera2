@@ -1,0 +1,20 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Logs
+*.log
+
+# Others
+*.DS_Store
+Thumbs.db
