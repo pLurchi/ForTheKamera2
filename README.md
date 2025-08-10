@@ -33,13 +33,15 @@ For The King II/
 ├── doorstop_config.ini
 ├── winhttp.dll
 └── ...
+4. Start the Game once to init BepInEx
 
 
 ### 2. Install ForTheKamera2
 
 1. Download the latest [Release ZIP](https://github.com/pLurchi/ForTheKamera2/releases)
 2. Extract the folder `ForTheKamera2` (which contains `ForTheKamera2.dll`) into: "For The King II/BepInEx/plugins/ForTheKamera2/"
-3. Launch the game.
+3. It should now look like this: "C:\Program Files (x86)\Steam\steamapps\common\For The King II\BepInEx\plugins\ForTheKamera2\ForTheKamera2.dll"
+4. Launch the game.
 
 If everything worked, a file named `campos.cfg` will be created automatically in the same folder on first use.
 
