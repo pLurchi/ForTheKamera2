@@ -30,10 +30,10 @@ Download **BepInEx 5** for your platform:
 3. Your folder should now contain:
 
 For The King II/
-├── BepInEx/
-├── doorstop_config.ini
-├── winhttp.dll
-└── ...
+ ├── BepInEx/
+ ├── doorstop_config.ini
+ ├── winhttp.dll
+ └── ...
 
 4. Start the Game once to init BepInEx
 
