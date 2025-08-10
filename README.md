@@ -29,10 +29,15 @@ Download **BepInEx 5** for your platform:
 2. Extract the contents into your game folder, e.g.: "C:\Program Files (x86)\Steam\steamapps\common\For The King II\"
 3. Your folder should now contain:
 For The King II/
+
 ├── BepInEx/
+
 ├── doorstop_config.ini
+
 ├── winhttp.dll
+
 └── ...
+
 4. Start the Game once to init BepInEx
 
 
